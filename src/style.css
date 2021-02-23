@@ -1,0 +1,49 @@
+body{
+    background-color: azure;
+    margin-top: 10px;
+    margin-left: 450px;
+}
+#btn1, #btn2, #btn3{
+    height: 70px;
+    width: 70px;
+    border: none;
+    font-weight: bold;
+    font-family: 'Times New Roman', Times, serif;
+    border-radius: 30px;
+    margin-top: 15px;
+    margin-left: 15px;
+    border-radius: 20px;
+}
+#btn1{
+    font-size: 50px;
+    background-color: beige;
+    color: black;
+    text-shadow: 2px, 2px,2px grey;
+    box-shadow: 5px, 5px, 5px grey;
+    border-radius: 20px;
+}
+#btn2{
+    font-size: 50px;
+    background-color: beige;
+    color: black;
+    text-shadow: 2px, 2px,2px rgb(231, 140, 140);
+    box-shadow: 5px, 5px, 5px rgb(228, 141, 141);
+    border-radius: 20px;
+}
+#btn3{
+    font-size: 50px;
+    background-color: blue;
+    color:white;
+    text-shadow: 2px, 2px,2px rgb(231, 140, 140);
+    box-shadow: 5px, 5px, 5px rgb(228, 141, 141);
+    border-radius: 20px;
+}
+#inputbox{
+    height: 70px;
+    width: 350px;
+    background-color:white;
+    text-align:right;
+    font-size: 40px;
+    border-radius: 20px;
+    border: none;
+}
